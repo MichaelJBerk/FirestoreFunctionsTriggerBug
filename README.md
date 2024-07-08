@@ -2,7 +2,7 @@
 - Run `npm i`
 - run `firebase init firestore`
 - run `firebase init functions`
-- Replace "<projectId>" in source files with your project name
+- Replace "pricetracker-testing" in source files with your project name
 
 # Running
 - run ` firebase emulators:start -P <projectId> --only firestore`
